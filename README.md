@@ -6,10 +6,6 @@ for automating onboarding/managing hotspots of large numbers of hotspots.**
 
 **PLEASE CONTRIBUTE!**
 
-## Installation
-
-Download the latest version from [releases](https://github.com/rsnodgrass/helium-hotspot-cli/releases/latest).
-
 ## Usage
 
 Every command comes with a built in `--help` option, which explains how to use it.
