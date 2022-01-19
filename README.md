@@ -9,7 +9,7 @@ for automating onboarding/managing hotspots of large numbers of hotspots.**
 Currently supporte models:
 
 * Bobcat
-* SenseCAP
+* SenseCAP (local only, cloud no longer works)
 
 ## Usage
 
