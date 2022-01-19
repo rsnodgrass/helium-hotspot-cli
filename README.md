@@ -6,6 +6,11 @@ for automating onboarding/managing hotspots of large numbers of hotspots.**
 
 **PLEASE CONTRIBUTE!**
 
+Currently supporte models:
+
+* Bobcat
+* SenseCAP
+
 ## Usage
 
 Every command comes with a built in `--help` option, which explains how to use it.
