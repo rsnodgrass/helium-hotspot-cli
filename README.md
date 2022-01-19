@@ -1,10 +1,10 @@
 # helium-hotspot-cli
 
 Simple command-line interface for common administration tools for hotspots that
-expose management APIs.
-
-**PLEASE CONTRIBUTE! This was quickly hacked together to provide a mechanism
+expose management APIs. **This was quickly hacked together to provide a mechanism
 for automating onboarding/managing hotspots of large numbers of hotspots.**
+
+**PLEASE CONTRIBUTE!**
 
 ## Installation
 
