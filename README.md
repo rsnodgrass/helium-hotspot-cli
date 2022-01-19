@@ -3,9 +3,8 @@
 Simple command-line interface for common administration tools for hotspots that
 expose management APIs.
 
-**PLEASE CONTRIBUTE! This was just created as an easy way to manage hotspots
-while onboarding them where automating the update/management of a large number
-of hotspots is best done with CLI tools.**
+**PLEASE CONTRIBUTE! This was quickly hacked together to provide a mechanism
+for automating onboarding/managing hotspots of large numbers of hotspots.**
 
 ## Installation
 
@@ -33,9 +32,9 @@ tool:
 ```console
 % hotspot-admin discovery
 
-Found rak @ 192.168.5.160 (60:81:fa:01:02:75)
-Found sensecap @ 192.168.5.161 (a9d9cc9.localnet / e4:4f:01:46:5c:27)
-Found bobcat @ 192.168.5.249 (4ef9bf0.localnet / e4:4f:01:2a:14:39)
+Found rak      @ 192.168.1.160 (60:81:fa:01:02:75)
+Found sensecap @ 192.168.1.161 (a9d9cc9.localnet / e4:4f:01:46:5c:27)
+Found bobcat   @ 192.168.1.249 (4ef9bf0.localnet / e4:4f:01:2a:14:39)
 ```
 
 ### Bobcat
