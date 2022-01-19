@@ -8,7 +8,7 @@ for automating onboarding/managing hotspots of large numbers of hotspots.**
 
 ## Installation
 
-Download the latest version from [releases](https://github.com/loraspot/helium-hotspot-cli/releases/latest).
+Download the latest version from [releases](https://github.com/rsnodgrass/helium-hotspot-cli/releases/latest).
 
 ## Usage
 
