@@ -57,7 +57,7 @@ optional arguments:
 
 ## Support
 
-There is no support for this tool. Use at your own risk.
+**There is no support for this tool. Use at your own risk.**
 
 #### TODO
 
