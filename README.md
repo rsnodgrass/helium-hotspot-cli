@@ -67,3 +67,7 @@ optional arguments:
 #### TODO
 
 * consider replacing argparse with click (for better documentation in --help)
+
+## See Also
+
+* [HotSpotty](https://app.hotspotty.net/?ref=helium)
