@@ -4,9 +4,13 @@ Simple command-line interface for common administration tools for hotspots that
 expose management APIs. **This was quickly hacked together to provide a mechanism
 for automating onboarding/managing hotspots of large numbers of hotspots.**
 
+## Support
+
+**There is no support for this tool. Use at your own risk.**
+
 **PLEASE CONTRIBUTE!**
 
-Currently supporte models:
+Currently supported hotspot manufacturers:
 
 * Bobcat
 * SenseCAP (local only, cloud no longer works)
@@ -59,10 +63,6 @@ optional arguments:
 ```console
 % hotspot-admin bobcat reboot 192.168.5.249
 ```
-
-## Support
-
-**There is no support for this tool. Use at your own risk.**
 
 #### TODO
 
